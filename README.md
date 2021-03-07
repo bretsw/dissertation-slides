@@ -1,2 +1,2 @@
-# dissertation-slides
-Slide deck for doctoral dissertation defense
+# dissertation-proposal
+Slide deck for my dissertation proposal defense
