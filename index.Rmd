@@ -459,30 +459,6 @@ include_graphics("img/system-taylor.jpg")
 
 ---
 
-# RQ4. Social Media: Boundaries
-
-```{r, out.width = "720", echo = FALSE, fig.align = "center"}
-include_graphics("img/RQ4-boundaries.png")
-```
-
---
-
-**Personal-professional separation:** separation is more important than potential benefits; having a plan for each platform
-
---
-
-**Time management:** Simone's goal of not bringing work home
-
-> If I don't have time for myself, then I'm doing [my students] a disservice. I have to have that shut-off button. ~ Mike
-
---
-
-**Social comparison:**
-
-> Sometimes I feel like, it makes me feel like a crappy teacher, because I'm seeing them do all these things. ~ Anne
-
----
-
 # RQ4. Social Media: Engagement
 
 ```{r, out.width = "720", echo = FALSE, fig.align = "center"}
@@ -514,6 +490,30 @@ include_graphics("img/RQ4-engagement.png")
 ```{r, out.width = "720", echo = FALSE, fig.align = "center"}
 include_graphics("img/system-you.jpg")
 ```
+
+---
+
+# RQ4. Social Media: Boundaries
+
+```{r, out.width = "720", echo = FALSE, fig.align = "center"}
+include_graphics("img/RQ4-boundaries.png")
+```
+
+--
+
+**Personal-professional separation:** separation is more important than potential benefits; having a plan for each platform
+
+--
+
+**Time management:** Simone's goal of not bringing work home
+
+> If I don't have time for myself, then I'm doing [my students] a disservice. I have to have that shut-off button. ~ Mike
+
+--
+
+**Social comparison:**
+
+> Sometimes I feel like, it makes me feel like a crappy teacher, because I'm seeing them do all these things. ~ Anne
 
 ---
 
@@ -579,41 +579,21 @@ class: inverse, center, middle
 
 # Implications for New Teachers
 
-```{r, out.width = "600", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/complicated.jpg")
 ```
 
 --
 
-- Increased number of available tools, people, and spaces 
+- Social media have expanded the number of available tools, people, and spaces 
 
 --
 
-- This means increased demands on time and agency
-
----
-
-# Implications for New Teachers
-
-```{r, out.width = "280", echo = FALSE, fig.align = "center"}
-include_graphics("img/juxtaposition.jpg")
-```
+- But, this means increased demands on time and agency
 
 --
 
-You're not the only one experiencing:
-
---
-
-- **Context collapse:** Disparate pieces of new teachers' lives coming together in potentially undesirable ways 
-
---
-
-- **Social comparison:** More feelings of competition than collaboration 
-  
---
-
-Other new teachers are also looking for a break, or a place free from scrutiny
+- You are not alone in navigating **context collapse** and **social comparison**
 
 ---
 
@@ -669,7 +649,7 @@ class: inverse, center, middle
 
 # Conclusion
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse.jpg")
 ```
 
