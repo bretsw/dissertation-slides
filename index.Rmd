@@ -131,31 +131,9 @@ include_graphics("img/network.jpg")
 
 # Professional Learning Networks
 
-```{r, out.width = "560x", echo = FALSE, fig.align = "center"}
-include_graphics("img/network.jpg")
-```
-
---
-
-- PLNs are rooted in *situated* theories of learning
-
---
-
-  - Emphasis on belonging: community membership and apprenticeship
-  
---
-
-  - PLNs are a type of build-your-own community
-
----
-
-# Professional Learning Networks
-
 ```{r, out.width = "560px", echo = FALSE, fig.align = "center"}
 include_graphics("img/network.jpg")
 ```
-
---
 
 - **Tools** - knowledge, skills, teaching resources, curricular materials, and encouragement
 
@@ -166,14 +144,6 @@ include_graphics("img/network.jpg")
 --
 
 - **Spaces** - school of employment, district workshops, social media platforms
-
----
-
-# Tools + People + Spaces
-
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/edu-verse-model.jpg")
-```
 
 ---
 
@@ -206,34 +176,6 @@ include_graphics("img/streetlamp.jpg")
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse-model.jpg")
 ```
-
----
-
-# Significance
-
-```{r, out.width = "230px", echo = FALSE, fig.align = "center"}
-include_graphics("img/stress.jpg")
-```
-
---
-
-- New teachers' support systems &mdash; the full scope of them &mdash; matter 
-
---
-
-- Goal of this study is to make recommendations to new teachers and those who support them
-
---
-
-  - **Teaching** is hard
-
---
-
-  - **Teaching during a pandemic** is especially hard
-
---
-
-  - **Teaching during induction** is... 
 
 ---
 
@@ -345,21 +287,21 @@ class: inverse, center, middle
 
 # Participants
 
-```{r, out.width = "240px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "280px", echo = FALSE, fig.align = "center"}
 include_graphics("img/teaching.jpg")
 ```
 
 --
 
-**Purpose:** Explore the **support systems** new teachers construct during induction and how they use **social media** toward this end
+I wanted to understand what new teachers are doing,
 
 --
 
-So, I talked to new teachers:
+so I talked to them (semi-structured interviews):
 
 --
 
-- MSU College of Education Master's degree students
+- MSU College of Education Master's degree students (*n* = 9)
 
 --
 
@@ -371,23 +313,7 @@ So, I talked to new teachers:
 
 --
 
-- Distinct backgrounds and experiences: specialists, itinerants, starting mid-year
-
----
-
-# Data Collection
-
-```{r, out.width = "640px", echo = FALSE, fig.align = "center"}
-include_graphics("img/interview.jpg")
-```
-
---
-
-- **Pilot interviews:** develop interview protocol (*n* = 4)
-
---
-
-- **Main interviews:** semi-structured interviews to saturation (*n* = 9)
+- Distinct backgrounds and experiences: classroom teachers, specialists, itinerants, starting mid-year
 
 ---
 
@@ -637,11 +563,11 @@ include_graphics("img/interconnected.jpg")
 
 --
 
-- Differences in support systems (PLNs) explained in part by **ecology**
+- They develop their support systems accordingly in a way that makes sense
 
 --
 
-- Interconnected and mutually influential pieces
+- Interconnected and mutually influential pieces (**ecology**)
 
 ---
 
@@ -669,7 +595,7 @@ include_graphics("img/complicated.jpg")
 
 # Implications for New Teachers
 
-```{r, out.width = "240", echo = FALSE, fig.align = "center"}
+```{r, out.width = "280", echo = FALSE, fig.align = "center"}
 include_graphics("img/juxtaposition.jpg")
 ```
 
@@ -693,7 +619,7 @@ Other new teachers are also looking for a break, or a place free from scrutiny
 
 # Implications for Ed Leaders
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/self-directed.jpg")
 ```
 
@@ -704,10 +630,6 @@ Goal should be **sustaining** new teachers, not just **retaining** them:
 --
 
 - Expand notions of what “counts” for professional development - include social media
-
---
-
-- Help normalize *legitimate peripheral participation* (observing)
 
 --
 
