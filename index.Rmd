@@ -141,7 +141,11 @@ include_graphics("img/network.jpg")
 
 --
 
-- Emphasis on belonging: community membership and apprenticeship 
+  - Emphasis on belonging: community membership and apprenticeship
+  
+--
+
+  - PLNs are a type of build-your-own community
 
 ---
 
@@ -359,7 +363,7 @@ So, I talked to new teachers:
 
 --
 
-- 0-3 years experience
+- 0-3 years experience in teaching
 
 --
 
@@ -391,7 +395,7 @@ include_graphics("img/interview.jpg")
 
 --
 
-- Transcribed and coded: 5 rounds
+- Transcribed and coded: 5 rounds (288 codes to 160 in 2nd round... to 11)
 
 --
 
@@ -601,7 +605,7 @@ include_graphics("img/tools.jpg")
 
 --
 
-- Purposeful sense of having a job to do 
+- New teachers decribed having a purposeful sense of having a job to do 
 
 --
 
@@ -755,7 +759,7 @@ Tension between possibilities (ecology) and agency
 
 --
 
-Especially for new teachers' support systems: **"I feel like I filled a lot of gaps..."**
+Tensions reside in new teachers' support systems: **"I feel like I filled a lot of gaps..."**
 
 ---
 
