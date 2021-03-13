@@ -235,31 +235,19 @@ include_graphics("img/social-media.jpg")
 
 class: inverse, center, middle
 
-# Purpose and Research Questions
-
----
-
-# Purpose
-
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/purpose.jpg")
-```
-
---
-
-Explore the **support systems** new teachers construct during induction
-
---
-
-and how they use **social media** toward this end
+# Research Questions
 
 ---
 
 # Research Questions
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/question.jpg")
 ```
+
+--
+
+To understand new teachers' induction support systems:
 
 --
 
@@ -275,7 +263,7 @@ include_graphics("img/question.jpg")
 
 --
 
-- RQ4. Social media (spaces)
+- RQ4. Spaces (social media)
 
 ---
 
@@ -469,7 +457,13 @@ include_graphics("img/RQ4-engagement.png")
 
 ### "**I feel like I filled a lot of gaps.** If I couldn't find something, I'd go to social media to find it." ~ Julie
 
---
+---
+
+# RQ4. Social Media: Engagement
+
+```{r, out.width = "720", echo = FALSE, fig.align = "center"}
+include_graphics("img/RQ4-engagement.png")
+```
 
 **Browsing:** searching for resources on TeachersPayTeachers.com, watching YouTube videos, scrolling through Pinterest
 
@@ -539,7 +533,7 @@ include_graphics("img/tools.jpg")
 
 --
 
-- But also intentionality to sometime choose *not* to pursue
+- But also intentionality to sometime choose *not* to pursue (boundaries)
 
 --
 
@@ -657,11 +651,11 @@ include_graphics("img/edu-verse.jpg")
 
 --
 
-Tension between possibilities (ecology) and agency
+There's tension between possibilities (ecology) and agency
 
 --
 
-Tensions reside in new teachers' support systems: **"I feel like I filled a lot of gaps..."**
+These tensions persist in new teachers' support systems: **"I feel like I filled a lot of gaps..."**
 
 ---
 
