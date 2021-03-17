@@ -27,87 +27,209 @@ library(fontawesome)
 
 class: inverse, center, middle
 
-**View Slides:** [bretsw.github.io/dissertation-slides](https://bretsw.github.io/dissertation-slides)
+**A DISSERTATION**
 
-**Connect on Twitter:** [@bretsw](https://twitter.com/bretsw)
+Submitted to  
+Michigan State University  
+in partial fulfillment of the requirements  
+for the degree of
+
+**Educational Psychology and Educational Technology**  
+Doctor of Philosophy
 
 ---
 
 class: inverse, center, middle
 
-# Teacher Induction
+**View the slides:** [bretsw.github.io/dissertation-slides](https://bretsw.github.io/dissertation-slides)
+
+**Read the text:** [bretsw.github.io/dissertation-text](https://bretsw.github.io/dissertation-text)
 
 ---
 
-# Transition
+class: inverse, center, middle
 
-### From preparation to practice
+# Disruptions
+
+---
+
+# COVID-19 Response
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/teacher.jpg")
+include_graphics("img/mask.jpg")
+```
+
+--
+
+Take a moment to think back on the disruptions of the past year:
+
+--
+
+- How did you respond? 
+
+--
+
+- What help did you need to move forward?
+
+---
+
+# Gaps
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/puzzle-gap.jpg")
+```
+
+--
+
+There were gaps in this response for all of us.
+
+--
+
+Formal, official help wasn't enough.
+
+--
+
+It was likely up to you to figure out how to fill the gaps.
+
+---
+
+# Build-Your-Own Support System
+
+--
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model1.jpg")
 ```
 
 ---
 
-# Tension
-
-### What and how to teach
+# Build-Your-Own Support System
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model2.jpg")
+```
+
+---
+
+# Build-Your-Own Support System
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model3.jpg")
+```
+
+---
+
+# Build-Your-Own Support System
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model4.jpg")
+```
+
+---
+
+# Build-Your-Own Support System
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model-me0.jpg")
+```
+
+---
+
+# Build-Your-Own Support System
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model-me1.jpg")
+```
+
+---
+
+# Build-Your-Own Support System
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model-you.jpg")
+```
+
+---
+
+# Tensions
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/tension.jpg")
 ```
 
----
+--
 
-# Two Worlds
-
-### Conflicting messages about what and how to teach
-
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/two-worlds.jpg")
-```
+An extra layer to this:
 
 --
 
-1. Teacher preparation program
-
---
-
-1. School of employment
+Additional possibilities raise additional tensions
 
 ---
 
-# More Spaces Available
+# Hidden Complexity
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/edu-verse-model.jpg")
+include_graphics("img/edu-verse-model2.jpg")
 ```
 
 ---
 
-# Support System
-
-### Conflicting messages about what and how to teach
+# Build-Your-Own Support System
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/network.jpg")
+include_graphics("img/byo-model4.jpg")
 ```
 
 ---
 
-# Purpose
+# Ties to My Past Research
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/bretsw-publications.jpg")
+```
+
+<div class="caption">
+<p>View full citations at <a href="http://bretsw.com/cv" target="_blank">bretsw.com/cv</a></p>
+</div>
+
+---
+
+# Purpose of This Dissertation
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/purpose.jpg")
+include_graphics("img/teacher.jpg")
 ```
 
 --
 
-Explore the **support systems** new teachers construct during induction
+Explore **build-your-own support systems** 
 
 --
 
-and how they use **social media** toward this end
+that new teachers construct 
+
+--
+
+during **induction** - the disrupted transition period from preparation to practice
+
+---
+
+# Purpose of This Dissertation
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/teacher.jpg")
+```
+
+Understand how and why new teachers
+
+--
+
+use social media to fill **gaps** during induction
+
+--
+
+and what new **tensions** are created
 
 ---
 
@@ -125,7 +247,17 @@ include_graphics("img/network.jpg")
 
 --
 
-### PLNs are a type of support system to improve teaching and learning
+PLNs are a particular type of **support system**:
+
+--
+
+Meant to improve teaching and learning
+
+<p style="font-size:67%">(Krutka et al., 2017; Trust et al., 2016; Trust & Prestridge, 2021)</p>
+
+<div class="caption">
+<p>View full citations at <a href="https://bretsw.github.io/dissertation-text/references.html" target="_blank">bretsw.com/dissertation-text/references</a></p>
+</div>
 
 ---
 
@@ -135,15 +267,15 @@ include_graphics("img/network.jpg")
 include_graphics("img/network.jpg")
 ```
 
-- **Tools** - knowledge, skills, teaching resources, curricular materials, and encouragement
+- **Tools:** knowledge, skills, teaching resources, curricular materials, and encouragement
 
 --
 
-- **People** - both individuals and groups
+- **People:** both individuals and groups
 
 --
 
-- **Spaces** - school of employment, district workshops, social media platforms
+- **Spaces:** school of employment, district workshops, social media platforms
 
 ---
 
@@ -155,27 +287,49 @@ include_graphics("img/streetlamp.jpg")
 
 --
 
-- **Ecological perspective:** Interconnected, mutually influential spaces
+**Ecology:** Interconnected, mutually influential spaces 
 
 --
 
-  - How do disparate pieces of a new teacher's PLN fit together?
+- Helps us to understand **gaps** in the system
+
+--
+
+- Answers: How does it all fit together? What's missing?
+
+--
+
+<span style="font-size:67%">(Barron, 2006; Stevenson et al., 2019; Veletsianos et al., 2019)</span>
+
+<div class="caption">
+<p>View full citations at <a href="https://bretsw.github.io/dissertation-text/references.html" target="_blank">bretsw.com/dissertation-text/references</a></p>
+</div>
   
---
-
-- **Agentic perspective:** Intentional, purposeful actions
-
---
-
-  - How does a new teacher put the pieces of their PLN together?
-
 ---
 
-# PLN System: Ecology & Agency
+# Perspectives on PLNs
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/edu-verse-model.jpg")
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/streetlamp.jpg")
 ```
+
+**Agency:** Intentional, purposeful actions 
+
+--
+
+- Helps us to understand **tensions** in the system
+
+--
+
+- Answers: How does a new teacher construct the system?
+
+--
+
+<span style="font-size:67%">(Bandura, 2001; Wray & Richmond, 2018)</span>
+
+<div class="caption">
+<p>View full citations at <a href="https://bretsw.github.io/dissertation-text/references.html" target="_blank">bretsw.com/dissertation-text/references</a></p>
+</div>
 
 ---
 
@@ -187,49 +341,49 @@ class: inverse, center, middle
 
 # Induction Literature
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/workshop.jpg")
 ```
 
 --
 
-1. **Tools:** Formal programs
+- **Tools:** Formal programs <span style="font-size:67%">(Ingersoll & Strong, 2011; Kang & Berliner, 2012; Zhukova, 2018)</span>
 
 --
 
-1. **People:** Local (in-school, in-district) relationships
-
---
-
-1. **Spaces:** Offline
+- **People and Spaces:** Local, offline relationships <span style="font-size:67%">(Cuddapah & Clayton, 2011; Fantilli & McDougall, 2009; Fresko & Alhija, 2015; Kang & Berliner, 2012; Ronfeldt & McQueen, 2017; Stanulis & Floden, 2009; Thompson et al., 2013)</span>
 
 --
 
 **Not taking into account the full scope of possibilities for the support system**
 
+<div class="caption">
+<p>View full citations at <a href="https://bretsw.github.io/dissertation-text/references.html" target="_blank">bretsw.com/dissertation-text/references</a></p>
+</div>
+
 ---
 
 # Social Media Literature
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/social-media.jpg")
 ```
 
 --
 
-1. **Tools:** Informal learning opportunities
+- **Tools:** Informal learning opportunities <span style="font-size:67%">(Greenhow & Lewin, 2016; Macià & García, 2016)</span>
 
 --
 
-1. **People:** Global
-
---
-
-1. **Spaces:** Online
+- **People and Spaces:** Global, online connections <span style="font-size:67%">(Beach, 2017; Hur & Brush, 2009; Macià & García, 2016; März & Kelchtermans, 2020; Prestridge, 2017; Trust, 2012; Trust et al., 2016)</span>
 
 --
 
 **Not taking into account the particular needs of new teachers**
+
+<div class="caption">
+<p>View full citations at <a href="https://bretsw.github.io/dissertation-text/references.html" target="_blank">bretsw.com/dissertation-text/references</a></p>
+</div>
 
 ---
 
@@ -247,11 +401,11 @@ include_graphics("img/question.jpg")
 
 --
 
-To understand new teachers' induction support systems:
+To understand how and why new teachers' build induction support systems:
 
 --
 
-- RQ1. Underlying reasons
+- RQ1. Underlying reasons (**gaps**)
 
 --
 
@@ -305,6 +459,14 @@ so I talked to them (semi-structured interviews):
 
 ---
 
+# Participants
+
+```{r, out.width = "680px", echo = FALSE, fig.align = "center"}
+include_graphics("img/participants-table.png")
+```
+
+---
+
 # Data Analysis
 
 --
@@ -321,7 +483,7 @@ include_graphics("img/irr-comparison-plot.png")
 
 --
 
-- Recoded: 6th round
+- Recoded entire dataset: 6th round
 
 ---
 
@@ -331,7 +493,7 @@ class: inverse, center, middle
 
 ---
 
-# RQ1. Underlying Reasons
+# RQ1. Underlying Reasons (Gaps)
 
 ```{r, out.width = "720", echo = FALSE, fig.align = "center"}
 include_graphics("img/RQ1-reasons.png")
@@ -431,22 +593,6 @@ include_graphics("img/social-media-phone.jpg")
 
 ---
 
-# Simone's Support System (PLN)
-
-```{r, out.width = "720", echo = FALSE, fig.align = "center"}
-include_graphics("img/system-simone.jpg")
-```
-
----
-
-# Taylor's Support System (PLN)
-
-```{r, out.width = "720", echo = FALSE, fig.align = "center"}
-include_graphics("img/system-taylor.jpg")
-```
-
----
-
 # RQ4. Social Media: Engagement
 
 ```{r, out.width = "720", echo = FALSE, fig.align = "center"}
@@ -479,14 +625,6 @@ include_graphics("img/RQ4-engagement.png")
 
 ---
 
-# Build-Your-Own Support System
-
-```{r, out.width = "720", echo = FALSE, fig.align = "center"}
-include_graphics("img/system-you.jpg")
-```
-
----
-
 # RQ4. Social Media: Boundaries
 
 ```{r, out.width = "720", echo = FALSE, fig.align = "center"}
@@ -511,13 +649,63 @@ include_graphics("img/RQ4-boundaries.png")
 
 ---
 
+# Build-Your-Own Support System
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model4.jpg")
+```
+
+---
+
+# Taylor's Support System
+
+```{r, out.width = "720", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model-taylor.jpg")
+```
+
+--
+
+**Gaps:** Lack of undergraduate teacher preparation
+
+**Tensions:** Personal-professional separation
+
+---
+
+# Simone's Support System
+
+```{r, out.width = "720", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model-simone.jpg")
+```
+
+--
+
+**Gaps:** Professional isolation, lack of resources
+
+**Tensions:** Time management
+
+---
+
+# Anne's Support System
+
+```{r, out.width = "720", echo = FALSE, fig.align = "center"}
+include_graphics("img/byo-model-anne.jpg")
+```
+
+--
+
+**Gaps:** Missing classroom materials, poor physical conditions
+
+**Tensions:** Social comparison
+
+---
+
 class: inverse, center, middle
 
 # Discussion
 
 ---
 
-# Uniformity of Results
+# Uniformity of Results: **Agency**
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/tools.jpg")
@@ -525,23 +713,23 @@ include_graphics("img/tools.jpg")
 
 --
 
-- New teachers decribed having a purposeful sense of having a job to do 
+- New teachers exercised **agency** in navigating **tensions**
 
 --
 
-- Determination to find the tools, people, and spaces necessary to do that job well
+- Purposeful sense of having a job to do: build-your-own support system
+
+--
+
+- Determination to find the tools, people, and spaces necessary to do that job well 
 
 --
 
 - But also intentionality to sometime choose *not* to pursue (boundaries)
 
---
-
-- That is, new teachers exercised **agency**
-
 ---
 
-# Variance of Results
+# Variance of Results: **Ecology**
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/interconnected.jpg")
@@ -549,19 +737,19 @@ include_graphics("img/interconnected.jpg")
 
 --
 
-- Teaching is complicated by contextual realities and challenges
+- New teachers experienced induction complications differently - different **gaps** related to distinct contextual realities and challenges
 
 --
 
-- New teachers experience these complications differently
-
---
-
-- They develop their support systems accordingly in a way that makes sense
+- They developed their support systems accordingly
 
 --
 
 - Interconnected and mutually influential pieces (**ecology**)
+
+--
+
+- They then navigated different **tensions**
 
 ---
 
@@ -574,64 +762,76 @@ class: inverse, center, middle
 # Implications for New Teachers
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
-include_graphics("img/complicated.jpg")
+include_graphics("img/puzzle-gap.jpg")
 ```
 
 --
 
-- Social media have expanded the number of available tools, people, and spaces 
+### Passion alone is not enough
 
 --
 
-- But, this means increased demands on time and agency
+- Build-your-own support systems are necessary
 
 --
 
-- You are not alone in navigating **context collapse** and **social comparison**
+- Today there are more available tools, people, and spaces to fill the **gaps**
+
+--
+
+- You are not alone in navigating increased **tensions** like *context collapse* and *social comparison*
 
 ---
 
 # Implications for Ed Leaders
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
-include_graphics("img/self-directed.jpg")
+include_graphics("img/tension.jpg")
 ```
 
 --
 
-Goal should be **sustaining** new teachers, not just **retaining** them:
+### Agency is finite
 
 --
 
-- Expand notions of what “counts” for professional development - include social media
+- Meet new teachers where they are as they try to fill **gaps**:
 
 --
 
-- At minimum: Offer a clear, positively-framed social media policy
+  - Expand notions of what "counts" for professional development to include social media: alleviates some **tensions** around time
 
 --
 
-- Better yet: Set up protected spaces for new teachers
+  - Set up protected spaces for new teachers and train them to use: alleviates some **tensions** around social comparison
 
 ---
 
 # Implications for Researchers
 
-```{r, out.width = "560", echo = FALSE, fig.align = "center"}
+```{r, out.width = "400", echo = FALSE, fig.align = "center"}
 include_graphics("img/future-research.jpg")
 ```
 
 --
 
-- Seek a greater diversity of perspectives: Try to understand experiences of new teachers with minoritized identities
+**Gaps:** Seek a greater diversity of perspectives: 
 
 --
 
-- Examine changes over time: pandemic disruptions, social movements
+- Try to understand experiences of new teachers with minoritized identities
 
 --
 
-- Study broad trends: survey, data mining of social media activity
+- Or those disrupted by other transitions (e.g., pandemic)
+
+--
+
+**Tensions:** Further investigate boundaries, forms of engagement <span style="font-size:67%">(Bozkurt et al., 2020; Prestridge, 2019)</span>, and how these change over time
+
+--
+
+- Study broad trends through surveys or data mining of social media activity
 
 ---
 
@@ -643,19 +843,27 @@ class: inverse, center, middle
 
 # Conclusion
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse.jpg")
 ```
 
-### Passion alone is not enough to sustain teaching careers
+The goal, for all of us:
 
 --
 
-There's tension between possibilities (ecology) and agency
+**Sustaining, not just retaining new teachers**
 
 --
 
-These tensions persist in new teachers' support systems: **"I feel like I filled a lot of gaps..."**
+- Nurture build-your-own support systems to fill induction **gaps**
+
+--
+
+- Continue to seek further insight into navigating the resulting **tensions**...
+
+--
+
+...as new teachers continue to reflect: *"I feel like I filled a lot of gaps..."*
 
 ---
 
@@ -667,7 +875,9 @@ class: inverse, center, middle
 include_graphics("img/xkcd-thesis-defense.png")
 ```
 
-https://m.xkcd.com/1403
+<div class="caption">
+<p><a href="https://m.xkcd.com/1403" target="_blank">XKCD: "Thesis Defense"</a></p>
+</div>
 
 <hr>
 

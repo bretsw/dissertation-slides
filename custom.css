@@ -7,6 +7,11 @@
   padding: 1em 2em 1em 2em
 }
 
+.caption {
+  font-size: 50%;
+  text-align: center;
+}
+
 .title-slide .inverse .remark-slide-content {
   background-color: #FAFAFA;
 }
@@ -16,7 +21,9 @@
   text-shadow: none;
 }
 
-/* This controls the appearance of all slides */
+
+/* ------------------------------------------------------------------------- */
+/* This controls the appearance of all regular slides */
 .remark-slide-content > h1 {
   font-family: 'Lato';
   font-weight: 400;
@@ -203,6 +210,7 @@ a, a > code {
 }
 
 
+/* ------------------------------------------------------------------------- */
 /* This controls the appearance of the Title slide */
 .title-slide {
   background-color: #FAFAFA;
