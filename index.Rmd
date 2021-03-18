@@ -151,22 +151,6 @@ include_graphics("img/byo-model-you.jpg")
 
 ---
 
-# Tensions
-
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/tension.jpg")
-```
-
---
-
-An extra layer to this:
-
---
-
-Additional possibilities raise additional tensions
-
----
-
 # Hidden Complexity
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
@@ -175,11 +159,13 @@ include_graphics("img/edu-verse-model2.jpg")
 
 ---
 
-# Build-Your-Own Support System
+# Tensions
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/byo-model4.jpg")
+include_graphics("img/tension.jpg")
 ```
+
+The additional possibilities raise additional tensions
 
 ---
 
@@ -203,24 +189,6 @@ include_graphics("img/teacher.jpg")
 
 --
 
-Explore **build-your-own support systems** 
-
---
-
-that new teachers construct 
-
---
-
-during **induction** - the disrupted transition period from preparation to practice
-
----
-
-# Purpose of This Dissertation
-
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/teacher.jpg")
-```
-
 Understand how and why new teachers
 
 --
@@ -230,6 +198,20 @@ use social media to fill **gaps** during induction
 --
 
 and what new **tensions** are created
+
+---
+
+# Purpose of This Dissertation
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/teacher.jpg")
+```
+
+Explore **build-your-own support systems** that new teachers construct 
+
+--
+
+during **induction** - the disrupted transition period from preparation to practice
 
 ---
 
@@ -275,27 +257,23 @@ include_graphics("img/network.jpg")
 
 --
 
-- **Spaces:** school of employment, district workshops, social media platforms
+- **Spaces:** both online and offline
 
 ---
 
 # Perspectives on PLNs
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
 include_graphics("img/streetlamp.jpg")
 ```
 
 --
 
-**Ecology:** Interconnected, mutually influential spaces 
+**Ecology:** How tools, people, and spaces fit together
 
 --
 
 - Helps us to understand **gaps** in the system
-
---
-
-- Answers: How does it all fit together? What's missing?
 
 --
 
@@ -309,19 +287,15 @@ include_graphics("img/streetlamp.jpg")
 
 # Perspectives on PLNs
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
 include_graphics("img/streetlamp.jpg")
 ```
 
-**Agency:** Intentional, purposeful actions 
+**Agency:** Intentional, purposeful actions - why new teachers construct the system
 
 --
 
 - Helps us to understand **tensions** in the system
-
---
-
-- Answers: How does a new teacher construct the system?
 
 --
 
@@ -499,17 +473,11 @@ class: inverse, center, middle
 include_graphics("img/RQ1-reasons.png")
 ```
 
---
+- **Change:** new curricula, starting mid-year
 
-**Change:** new curricula, starting mid-year
+- **Scarcity of resources:** missing classroom materials, poor physical conditions 
 
---
-
-**Scarcity of resources:** missing classroom materials, poor physical conditions 
-
---
-
-**Conflicting teaching beliefs:** 
+- **Conflicting teaching beliefs:** 
 
 > I have one teacher who just wants to use curriculum from 30 years ago. And I'm just like, ‘I can't do it.’ There are just completely irrelevant things. ~ Hallie
 
@@ -523,17 +491,13 @@ include_graphics("img/RQ2-tools.png")
 
 --
 
-**Planning:**
+- **Planning:**
 
 > There are teachers that are willing to help, but because my team doesn't do a lot of the actual same activity, it doesn't really help to share planning resources, always. ~ Hallie
 
---
+- **Enacting practice:** Taylor found YouTube videos to be especially useful for demonstrating activities to her physical education (PE) classes
 
-**Enacting practice:** Taylor found YouTube videos to be especially useful for demonstrating activities to her physical education (PE) classes
-
---
-
-**Connecting socially:** venting frustrations, hearing outside perspectives and diverse opinions
+- **Connecting socially:** venting frustrations, hearing outside perspectives and diverse opinions
 
 ---
 
@@ -543,13 +507,9 @@ include_graphics("img/RQ2-tools.png")
 include_graphics("img/RQ3-people.png")
 ```
 
---
+- **In-school:** mentor teachers, professional learning communities (PLCs), teachers' lounge
 
-**In-school:** mentor teachers, professional learning communities (PLCs), teachers' lounge
-
---
-
-**Out-of-school:** district workshops, district-wide Facebook group, friends and family, professional organizations, social media
+- **Out-of-school:** district workshops, district-wide Facebook group, friends and family, professional organizations, social media
 
 ---
 
@@ -567,29 +527,17 @@ include_graphics("img/RQ4-platforms.png")
 include_graphics("img/social-media-phone.jpg")
 ```
 
---
+- **Planning, in-school:** Google Classroom (LMS) shell
 
-**Planning, in-school:** Google Classroom (LMS) shell
+- **Planning, out-of-school:** TeachersPayTeachers.com, Pinterest
 
---
+- **Enacting practice, in-school:** none
 
-**Planning, out-of-school:** TeachersPayTeachers.com, Pinterest
+- **Enacting practice, out-of-school:** YouTube
 
---
+- **Connecting socially, in-school:** Facebook
 
-**Enacting practice, in-school:** none
-
---
-
-**Enacting practice, out-of-school:** YouTube
-
---
-
-**Connecting socially, in-school:** Facebook
-
---
-
-**Connecting socially, out-of-school:** Facebook, Instagram
+- **Connecting socially, out-of-school:** Facebook, Instagram
 
 ---
 
@@ -598,8 +546,6 @@ include_graphics("img/social-media-phone.jpg")
 ```{r, out.width = "720", echo = FALSE, fig.align = "center"}
 include_graphics("img/RQ4-engagement.png")
 ```
-
---
 
 ### "**I feel like I filled a lot of gaps.** If I couldn't find something, I'd go to social media to find it." ~ Julie
 
@@ -611,17 +557,13 @@ include_graphics("img/RQ4-engagement.png")
 include_graphics("img/RQ4-engagement.png")
 ```
 
-**Browsing:** searching for resources on TeachersPayTeachers.com, watching YouTube videos, scrolling through Pinterest
+- **Browsing:** searching for resources on TeachersPayTeachers.com, watching YouTube videos, scrolling through Pinterest
 
---
-
-**Asking:**
+- **Asking:**
 
 > I wish there was a way to use social media like, ‘Here's a problem I'm dealing with; can people help me with this problem?’ ~ Julie
 
---
-
-**Exchanging:** interaction and dialogue to satisfy mutual interests, characterized by group membership
+- **Exchanging:** interaction and dialogue to satisfy mutual interests, characterized by group membership
 
 ---
 
@@ -631,19 +573,13 @@ include_graphics("img/RQ4-engagement.png")
 include_graphics("img/RQ4-boundaries.png")
 ```
 
---
+- **Personal-professional separation:** separation is more important than potential benefits; having a plan for each platform
 
-**Personal-professional separation:** separation is more important than potential benefits; having a plan for each platform
-
---
-
-**Time management:** Simone's goal of not bringing work home
+- **Time management:** Simone's goal of not bringing work home
 
 > If I don't have time for myself, then I'm doing [my students] a disservice. I have to have that shut-off button. ~ Mike
 
---
-
-**Social comparison:**
+- **Social comparison:**
 
 > Sometimes I feel like, it makes me feel like a crappy teacher, because I'm seeing them do all these things. ~ Anne
 
@@ -663,11 +599,9 @@ include_graphics("img/byo-model4.jpg")
 include_graphics("img/byo-model-taylor.jpg")
 ```
 
---
+- **Gaps:** Lack of undergraduate teacher preparation
 
-**Gaps:** Lack of undergraduate teacher preparation
-
-**Tensions:** Personal-professional separation
+- **Tensions:** Personal-professional separation
 
 ---
 
@@ -677,11 +611,9 @@ include_graphics("img/byo-model-taylor.jpg")
 include_graphics("img/byo-model-simone.jpg")
 ```
 
---
+- **Gaps:** Professional isolation, lack of resources
 
-**Gaps:** Professional isolation, lack of resources
-
-**Tensions:** Time management
+- **Tensions:** Time management
 
 ---
 
@@ -691,11 +623,9 @@ include_graphics("img/byo-model-simone.jpg")
 include_graphics("img/byo-model-anne.jpg")
 ```
 
---
+- **Gaps:** Missing classroom materials, poor physical conditions
 
-**Gaps:** Missing classroom materials, poor physical conditions
-
-**Tensions:** Social comparison
+- **Tensions:** Social comparison
 
 ---
 
@@ -843,27 +773,31 @@ class: inverse, center, middle
 
 # Conclusion
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse.jpg")
 ```
 
-The goal, for all of us:
+Disruptions are going to keep happening
 
 --
 
-**Sustaining, not just retaining new teachers**
+creating **gaps** that necessitate build-your-own support systems
 
 --
 
-- Nurture build-your-own support systems to fill induction **gaps**
+which, in turn, raise new **tensions**.
 
---
+---
 
-- Seek further insight into navigating the resulting **tensions**...
+# Conclusion
 
---
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/edu-verse.jpg")
+```
 
-...as new teachers continue to reflect: *"I feel like I filled a lot of gaps..."*
+My dissertation findings help us move a bit closer to
+
+**sustaining**, not just retaining, new teachers.
 
 ---
 
