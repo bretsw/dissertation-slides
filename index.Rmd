@@ -189,7 +189,7 @@ include_graphics("img/teacher.jpg")
 
 --
 
-Understand how and why new teachers
+Understand how and why **new teachers**
 
 --
 
@@ -489,8 +489,6 @@ include_graphics("img/RQ1-reasons.png")
 include_graphics("img/RQ2-tools.png")
 ```
 
---
-
 - **Planning:**
 
 > There are teachers that are willing to help, but because my team doesn't do a lot of the actual same activity, it doesn't really help to share planning resources, always. ~ Hallie
@@ -635,7 +633,7 @@ class: inverse, center, middle
 
 ---
 
-# Uniformity of Results: **Agency**
+# Uniformity of Results
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/tools.jpg")
@@ -643,11 +641,11 @@ include_graphics("img/tools.jpg")
 
 --
 
-- New teachers exercised **agency** in navigating **tensions**
+- New teachers exercised **agency** in filling gaps and navigating tensions
 
 --
 
-- Purposeful sense of having a job to do: build-your-own support system
+- Purposeful sense of having a job to do
 
 --
 
@@ -655,11 +653,11 @@ include_graphics("img/tools.jpg")
 
 --
 
-- But also intentionality to sometime choose *not* to pursue (boundaries)
+- As well as intentionality to sometime choose *not* to pursue (boundaries)
 
 ---
 
-# Variance of Results: **Ecology**
+# Variance of Results
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/interconnected.jpg")
@@ -667,19 +665,15 @@ include_graphics("img/interconnected.jpg")
 
 --
 
-- New teachers experienced induction complications differently - different **gaps** related to distinct contextual realities and challenges
+- New teachers experienced induction disruptions differently - different **gaps** related to distinct contextual realities and challenges
 
 --
 
-- They developed their support systems accordingly
+- They developed their support systems accordingly in a way that made sense as a whole and fit their context (**ecology**)
 
 --
 
-- Interconnected and mutually influential pieces (**ecology**)
-
---
-
-- They then navigated different **tensions**
+- They then navigated the different **tensions** that arose
 
 ---
 
@@ -709,7 +703,7 @@ include_graphics("img/puzzle-gap.jpg")
 
 --
 
-- You are not alone in navigating increased **tensions** like *context collapse* and *social comparison*
+- Many new teachers likely navigate increased **tensions** related to *context collapse* and *social comparison*
 
 ---
 
@@ -739,7 +733,7 @@ include_graphics("img/tension.jpg")
 
 # Implications for Researchers
 
-```{r, out.width = "400", echo = FALSE, fig.align = "center"}
+```{r, out.width = "600", echo = FALSE, fig.align = "center"}
 include_graphics("img/future-research.jpg")
 ```
 
@@ -755,7 +749,13 @@ include_graphics("img/future-research.jpg")
 
 - Or those disrupted by other transitions (e.g., pandemic)
 
---
+---
+
+# Implications for Researchers
+
+```{r, out.width = "600", echo = FALSE, fig.align = "center"}
+include_graphics("img/future-research.jpg")
+```
 
 **Tensions:** Further investigate boundaries, forms of engagement <span style="font-size:67%">(Bozkurt et al., 2020; Prestridge, 2019)</span>, and how these change over time
 
@@ -795,9 +795,11 @@ which, in turn, raise new **tensions**.
 include_graphics("img/edu-verse.jpg")
 ```
 
-My dissertation findings help us move a bit closer to
+My dissertation findings help us better understand **induction** disruptions
 
-**sustaining**, not just retaining, new teachers.
+--
+
+and move a bit closer to **sustaining**, not just retaining, new teachers.
 
 ---
 
