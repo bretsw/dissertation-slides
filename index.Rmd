@@ -1,6 +1,6 @@
 ---
 title: "\"I Filled a Lot of Gaps\""
-subtitle: "How and Why New Teachers Expand Induction Support Systems with Social Media"
+subtitle: "How and Why Early Career Teachers Expand Induction Support Systems with Social Media"
 author: "K. Bret Staudt Willet"
 date: "March 19, 2021"
 output:
@@ -189,7 +189,7 @@ include_graphics("img/teacher.jpg")
 
 --
 
-Understand how and why **new teachers**
+Understand how and why **early career teachers**
 
 --
 
@@ -207,7 +207,11 @@ and what new **tensions** are created
 include_graphics("img/teacher.jpg")
 ```
 
-Explore **build-your-own support systems** that new teachers construct 
+Explore **build-your-own support systems** 
+
+--
+
+that early career teachers construct 
 
 --
 
@@ -291,7 +295,7 @@ include_graphics("img/streetlamp.jpg")
 include_graphics("img/streetlamp.jpg")
 ```
 
-**Agency:** Intentional, purposeful actions - why new teachers construct the system
+**Agency:** Intentional, purposeful actions - why early career teachers construct the system
 
 --
 
@@ -353,7 +357,7 @@ include_graphics("img/social-media.jpg")
 
 --
 
-**Not taking into account the particular needs of new teachers**
+**Not taking into account the particular needs of early career teachers**
 
 <div class="caption">
 <p>View full citations at <a href="https://bretsw.github.io/dissertation-text/references.html" target="_blank">bretsw.com/dissertation-text/references</a></p>
@@ -375,7 +379,7 @@ include_graphics("img/question.jpg")
 
 --
 
-To understand how and why new teachers' build induction support systems:
+To understand how and why early career teachers' build induction support systems:
 
 --
 
@@ -409,7 +413,7 @@ include_graphics("img/teaching.jpg")
 
 --
 
-I wanted to understand what new teachers are doing,
+I wanted to understand what early career teachers are doing,
 
 --
 
@@ -641,7 +645,7 @@ include_graphics("img/tools.jpg")
 
 --
 
-- New teachers exercised **agency** in filling gaps and navigating tensions
+- Early career teachers exercised **agency** in filling gaps and navigating tensions
 
 --
 
@@ -665,7 +669,7 @@ include_graphics("img/interconnected.jpg")
 
 --
 
-- New teachers experienced induction disruptions differently - different **gaps** related to distinct contextual realities and challenges
+- Early career teachers experienced induction disruptions differently - different **gaps** related to distinct contextual realities and challenges
 
 --
 
@@ -683,7 +687,7 @@ class: inverse, center, middle
 
 ---
 
-# Implications for New Teachers
+# Implications for Early Career Ts
 
 ```{r, out.width = "480", echo = FALSE, fig.align = "center"}
 include_graphics("img/puzzle-gap.jpg")
@@ -703,7 +707,7 @@ include_graphics("img/puzzle-gap.jpg")
 
 --
 
-- Many new teachers likely navigate increased **tensions** related to *context collapse* and *social comparison*
+- Many early career teachers likely navigate increased **tensions** related to *context collapse* and *social comparison*
 
 ---
 
@@ -719,7 +723,7 @@ include_graphics("img/tension.jpg")
 
 --
 
-- Meet new teachers where they are as they try to fill **gaps**:
+- Meet early career teachers where they are as they try to fill **gaps**:
 
 --
 
@@ -727,13 +731,13 @@ include_graphics("img/tension.jpg")
 
 --
 
-  - Set up protected spaces for new teachers and train them to use: alleviates some **tensions** around social comparison
+  - Set up protected spaces for early career teachers and train them to use: alleviates some **tensions** around social comparison
 
 ---
 
 # Implications for Researchers
 
-```{r, out.width = "600", echo = FALSE, fig.align = "center"}
+```{r, out.width = "540", echo = FALSE, fig.align = "center"}
 include_graphics("img/future-research.jpg")
 ```
 
@@ -743,7 +747,7 @@ include_graphics("img/future-research.jpg")
 
 --
 
-- Try to understand experiences of new teachers with minoritized identities
+- Try to understand experiences of early career teachers with minoritized identities
 
 --
 
@@ -753,7 +757,7 @@ include_graphics("img/future-research.jpg")
 
 # Implications for Researchers
 
-```{r, out.width = "600", echo = FALSE, fig.align = "center"}
+```{r, out.width = "540", echo = FALSE, fig.align = "center"}
 include_graphics("img/future-research.jpg")
 ```
 
@@ -799,7 +803,7 @@ My dissertation findings help us better understand **induction** disruptions
 
 --
 
-and move a bit closer to **sustaining**, not just retaining, new teachers.
+and move a bit closer to **sustaining**, not just retaining, early career teachers.
 
 ---
 
